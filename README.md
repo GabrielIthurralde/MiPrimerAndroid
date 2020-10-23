@@ -1,2 +1,2 @@
 # MiPrimerAndroid
-Priemr Ejercicio de Android por curso
+Primer Ejercicio de Android por curso
